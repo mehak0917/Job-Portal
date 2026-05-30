@@ -63,7 +63,3 @@ It demonstrates a modern fullstack setup combining **authentication**, **state m
 ![Admin Panel](./Screenshots/applicants.png)
 
 ---
-
-## 👨‍💻 Author
-- Yuvraj Soni  
-- [LinkedIn](https://www.linkedin.com/in/yuvraj-soni-73ab60253/) | [GitHub](https://github.com/YUVRAJsoni999)
